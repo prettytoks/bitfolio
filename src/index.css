@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.coins {
+  background-color: #ffffff; /* Light mode background color */
+  /*color: pink;*/
+}
+
+.dark .coins {
+  background-color: #1f2937; /* Dark mode background color */
+  color: ivory;
+}
+
+/*
+.coin-details {
+  background-color: #ffffff; /* Light mode background color *
+}
+
+.dark .coin-details {
+  background-color: #1f2937; /* Dark mode background color *
+  color: ivory;
+}
+*/
